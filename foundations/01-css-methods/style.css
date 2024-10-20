@@ -1,0 +1,9 @@
+/* style.css */
+
+div {
+    background-color: red;
+    font-family: "Times New Roman", serif;
+    font-size: 32px;
+    color: white;
+    text-align:center;
+}
